@@ -6,22 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Link Rot
-email: info@linkrot.net
+title: FM.101.camp
+email: ask@101.camp
 description: "Link Rot is a discussion held at the intersection of life and technology. Each week we dive into a subject that explores the changes going on in digital technology and the way it affects our lives. We discuss how technology impacts our very humanity and aim to have some fun along the way!"
 subtitle: "A discussion from the intersection of life & technology."
-lang: en-us
-author: Tim Klapdor, Adam Webster &amp; Ben Atkinson
-copyright: "&#xA9; 2015"
+lang: zh-cn
+author: Zoom.Quiet
+copyright: "&#xA9; 2020"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://linkrot.net" # the base hostname & protocol for your site
-twitter_username: timklapdor
-github_username:  timklapdor
+url: "http://tm.101.camp" # the base hostname & protocol for your site
+twitter_username: zoomq
+github_username:  zoomquiet
 
 permalink: /:year/:title.html
 
 #Timezone
-timezone: Australia/Sydney
+timezone: China/Shanghai
 
 #Setup for Pages
 include: ['_pages']
