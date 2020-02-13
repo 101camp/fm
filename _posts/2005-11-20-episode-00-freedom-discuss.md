@@ -3,21 +3,21 @@ layout: post
 title: "自由软件初谭"
 date: 2005-11-20 20:42:00 
 file: http://0.zoomquiet.top/CPyUG/zq2voice/051120-FreedomDiscuss.mp3
-summary: "Episode 7 - We talk about the current wave of new hardware bought about by Google, Microsoft and Apple."
-description: "Microsoft and Google have famously been all about software, but that's changed significantly over the last few years. Microsoft and now Google have graduated to making their own hardware. Both companies traditionally licensed (or gave away) their software to run on devices made by other manufacturers. So why the move from software to hardware? BONUS: We geek out for another 20 minutes at the end of the episode discussing the new hardware releases. It's a bit of a response to some of the discussion we had back in episode 1."
-duration: "51:35" 
-length: "74352483"
+summary: "Episode 00 - 为北师范老师分析什么是自由软件, 以及自由软件社区的基本运营生态,由 Issac Mao 主讲"
+description: "庄老师计划发起一个有关网络教育的网络社区, 但是, 不知道如何开始, 所以, 找大妈, 当然大妈那时也是小萌新, 于是通过大胆的直接邀请, 获得 Issac Mao 的支持,但是主持进行人生第一次主动发起的网络会议..."
+duration: "89:5" 
+length: "5345"
 explicit: "no" 
-keywords: "hardware, apple, google, microsoft,"
 block: "no" 
-voices: "Tim Klapdor, Ben Atkinson and Adam Webster"
+keywords: "community, freesoftware, issacmao, dama, zoomquiet,"
+voices: "Zoom.Quiet, Issca Mao, 庄秀丽"
 ---
 
-### Is hardware the new software?
+### 什么是自由软件/社区?
 
-The last couple of weeks have been pretty full of product launches from all the major tech companies. There’s been a particular focus though on hardware - with plenty of new devices and peripherals being launched. Apple have always declared they were in the hardware business. They made computers, then iPods, then phones and now watches. Microsoft and Google have famously been all about software, but that's changed significantly over the last few years. Microsoft and now Google have graduated to making their own hardware. Both companies traditionally licensed (or gave away) their software to run on devices made by other manufacturers. 
+...
 
-BONUS: We geek out for another 20 minutes at the end of the episode discussing the new hardware releases. It's a bit of a response to some of the discussion we had back in episode 1.
+
 
 ### Links: 
 
