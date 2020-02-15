@@ -24,23 +24,15 @@
         <itunes:image href="http://101.zoomquiet.top/fm/img/fm_apple_podcast_v0-h2042.png" />
 
 		<itunes:category text="Technology" />
-		<itunes:category text="Society &amp; Culture" >
+        <itunes:category text="Education" />
+        <itunes:category text="Society &amp; Culture" >
             <itunes:category text="Personal Journals" />
-            <itunes:category text="Philosophy" />
-        </itunes:category> 
-        <itunes:category text="Health &amp; Fitness" >
-            <itunes:category text="Mental Health" />
         </itunes:category> 
         <itunes:category text="News" >
             <itunes:category text="Tech News" />
         </itunes:category> 
         <itunes:category text="Fiction" >
             <itunes:category text="Science Fiction" />
-        </itunes:category> 
-        <itunes:category text="Education">
-            <itunes:category text="Self-Improvement" />
-            <itunes:category text="Courses" />
-            <itunes:category text="How To" />
         </itunes:category> 
 
         <itunes:explicit>no</itunes:explicit>
