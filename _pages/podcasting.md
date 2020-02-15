@@ -4,27 +4,40 @@ title: "Podcasting With Jekyll"
 permalink: /podcast
 ---
 
-This site is built using the static site generator [Jekyll](https://jekyllrb.com/), the audio files live on [Amazon S3](https://aws.amazon.com/s3/) and (for the time being) the site itself is hosted on [GitHub pages](https://pages.github.com/).
+当前页面基于 [Jekyll](https://jekyllrb.com/) 自动生成, 
+音频文件用 [七牛云](https://www.qiniu.com/) 发布,
+而网站整体基于 [GitHub pages](https://pages.github.com/) 发布.
 
 ### Why?
+> Why not?
 
 The simple answer is that podcasting relies on a pretty simple technology - RSS. RSS often gets generated for a website almost as a by-product of adding content, this allows people to "subscribe" to your website and be notified or fed updates. Jekyll generates RSS straight out of the box and every podcast needs a website so we thought - why not kill two birds with one stone?
 
 ### How?
+> 参考: [Podcasting With Jekyll](https://wiobyrne.github.io/infusing-computing-pod/podcast)
 
-After a bit of a search we stumbled across [Podcast Generator](http://www.podcastgenerator.net/) which seemed to be a useful tool and close to what we needed. Doug and Dai over at [TIDE podcast](http://tidepodcast.org/) use it and after having played with the setup - it's quick and easy. There was some concern about placing our audio files up on our webserver though, audio files can be quite large which can impact on traffic allowances. Tim asked around the [Reclaim Community](https://community.reclaimhosting.com/t/podcasting-with-reclaim/) and decided to have a go at Jekyll. After an evening of fiddling around the site was up and running. It was generating an RSS feed that complied with iTunes standards and was looking pretty nice too. Tim added a HTML5 player ([Plyr](https://github.com/Selz/plyr)) to the post page for each podcast so that people could sample and listen without having to subscribe or download anything. Next step was to move the files into an Amazon S3 bucket, which [this tutorial](https://growthedream.com/host-podcast-files-amazon-s3/) covers nicely. The final step was getting a domain name and pointing it at GitHub.
 
-### Our Process
+思路很简单:
 
-**1.** Record the conversation
+- Podcasting 只是一个可以用 RSS 自动检索内容变化的网站
+- 而 GitHub-pages 内置了高效 [SSG](https://about.gitlab.com/blog/2016/06/03/ssg-overview-gitlab-pages-part-1-dynamic-x-static/) 服务
+- 那么, 嘦解决音频文件的发布
+- 网站/RSS 的生成, 就都可以交给 GitHub 自动完成
+- 幸好, 这个自动完成就是 [Jekyll](https://jekyllrb.com/)
+- 更加幸运的是, 早已有好人按照这个思路完成, 并分享了如何配置
+- 那就照猫画虎就好 ;-)
 
-**2.** Edit and export podcast
+### 过程
 
-**3.** Edit metadata
+**1.** 录制交流为 .mp3 或其它有效格式
 
-**4.** FTP file to Amazon S3 - copy link
+**2.** 根据情况进行后期编辑, 也可以不处理(如果听众能忍的话)
 
-**5.** Create a new post in Markdown and add in the relevant front matter to the YAML section
+**3.** 增补对应 Podcasting 需要的 metadata
+
+**4.** 发布音频到 CDN 空间, 并获得链接
+
+**5.** 配置好网站模板, 增补必须的信息到 YAML 节点中
 
 ``` yaml
 layout: post
@@ -41,16 +54,32 @@ block: "hold back publishing it"
 voices: "who did the talking"
 ```
 
-**6.** Add links and show notes to the content section. 
+**6.** 将相关链接和说明增补到对应声明中. 
 
-**7.** Once we're complete Commit to GitHub
+**7.** 将所有 push 给 GiyHub
 
-**8.** Site and RSS is updated and the new episode is pushed out
+**8.** 新节目将自动化更新到网站以及 RSS 
 
-### Can I haz?
 
-The beauty of this set up is that it's simple - and you can access [all the source files over on GitHub](https://github.com/timklapdor/link-rot). The RSS file pulls information from the config.yml file which has most of the information you need to publish on iTunes. The episode information and file for Plyr are included the Post layout and pulled in from the front matter listed above. All styles can be configured using some basic CSS. 
+### 能复用嘛?
+> 当然:
 
-At the moment you'll need to fork our code to make your own copy - but we'll make a boilerplate available soon. If this sounds cool and you want to get in touch with us you can via <a href="mailto:linkrot.podcast@gmail.com?subject=I found your website and wanted to say hi!">email</a> or on <a href="http://twitter.com/linkrotpodcast">twitter</a>!
+最简洁的方式:
+
+- clone [101camp/fm: FM\.101\.camp 蟒营™播客](https://github.com/101camp/fm) 
+- 然后, 根据自己的情况对应修改
+- 测试, 检验是否吻合自己的设计
+- 就可以愉快的发布自己的 播客网站了
+
+
+当然, 如果对样式不满意, 随时可以对 CSS 以及模板进行对应增补,
+
+有任何问题, 欢迎随时交流:
+
+- 邮件 -> ask(AT)101.camp
+- 列表 -> 101camp@googlegroups.com
+- 频道 -> 101camp.slack.com #general 
 
 Cheers!
+
+

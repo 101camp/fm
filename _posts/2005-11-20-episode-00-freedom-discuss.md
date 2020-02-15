@@ -3,7 +3,7 @@ layout: post
 title: "自由软件初谭"
 date: 2005-11-20 20:42:00 
 file: http://0.zoomquiet.top/CPyUG/zq2voice/051120-FreedomDiscuss.mp3
-summary: "Episode 00 - 为北师范老师分析什么是自由软件, 以及自由软件社区的基本运营生态,由 Issac Mao 主讲"
+summary: "Episode 00 - 为北师范师生分享什么是自由软件, 以及自由软件社区的基本运营生态,由 大妈 主讲"
 description: "庄老师计划发起一个有关网络教育的网络社区, 但是, 不知道如何开始, 所以, 找大妈, 当然大妈那时也是小萌新, 于是通过大胆的直接邀请, 获得 Issac Mao 的支持,但是主持进行人生第一次主动发起的网络会议..."
 duration: "89:05" 
 length: "5345"
