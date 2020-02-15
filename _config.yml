@@ -12,7 +12,8 @@ description: "fm.101.camp is PodCasting from 101.camp. 蟒营™101.camp is Open
 subtitle: "A discussion from the 蟒营™101.camp for life & learnning."
 lang: zh-cn
 author: Zoom.Quiet
-copyright: "&#xA9; 2020"
+copyright: "蟒营™101.camp&#xA9; 2020"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tm.101.camp" # the base hostname & protocol for your site
 twitter_username: zoomq

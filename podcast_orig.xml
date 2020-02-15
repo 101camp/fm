@@ -49,7 +49,7 @@
             <itunes:author>{{ site.author }}</itunes:author>
             <itunes:subtitle>{{ site.title | xml_escape }}: {{ post.title | xml_escape }}</itunes:subtitle>
             <itunes:summary>{{ post.summary | xml_escape }}</itunes:summary>
-
+            <itunes:image href="{{ site.url }}/images/itunes.png" />
             <itunes:image href="http://101.zoomquiet.top/fm/img/fm_apple_podcast_v0-h2042.png" />
             
             <enclosure url="{{ post.file }}" length="{{ post.length }}" type="audio/mp3"/>
