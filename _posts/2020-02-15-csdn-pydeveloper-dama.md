@@ -35,6 +35,12 @@ CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型�
     + 从容协作创造出真正长期发挥功效的软件/服务/模块/工具/经验/...
 
 
+后续相关讨论, 欢迎公开在:
+
+- [Issues · 101camp/blueprint](https://github.com/101camp/blueprint/issues) 
+- 或是知识星球: [FAQ蟒营™](https://t.zsxq.com/iaIEQ3N)
+
+
 ### Links: 
 
 - [python开发者大会2020](https://bss.csdn.net/m/topic/python_developer2020)  
