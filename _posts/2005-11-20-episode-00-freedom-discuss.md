@@ -9,7 +9,7 @@ duration: "89:05"
 length: "5345"
 explicit: "no" 
 block: "no" 
-keywords: "community, freesoftware, issacmao, dama, zoomquiet,"
+keywords: "community, freesoftware, dama, zoomquiet,"
 voices: "Zoom.Quiet, 庄秀丽"
 ---
 
