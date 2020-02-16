@@ -53,6 +53,10 @@ CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型�
     + [feiyan: 实时更新：新型肺炎疫情最新动态](https://gitee.com/smallweigit/feiyan)
     + [epidemic: 基于 AntV Vue 的中国新型冠状病毒疫情数据可视化移动端项目。](https://gitee.com/guangzan/epidemic)
 - ...
+- [Plan 9 from Bell Labs](https://9p.io/plan9/)
+    + 是的, 核心成员后来没事儿去 google 开发了 golang
+
+
 
 大妈私人偏见系列(以认真思考来改变心态):
 
