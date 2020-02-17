@@ -45,6 +45,7 @@ CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型�
 
 - [python开发者大会2020](https://bss.csdn.net/m/topic/python_developer2020)  
     + [\[python\_developer2020\] 微信群 QA · Issue \#1 · 101camp/blueprint](https://github.com/101camp/blueprint/issues/1)
+    + 现场:[问题收集](https://shimo.im/docs/9WwGgPcRQKjCGRhJ)
 - [wuhan2020/wuhan2020: 新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020)
 - [新冠病毒相关开源 · DCloud/xinguan2020 - Gitee](https://gitee.com/dcloud/xinguan2020/blob/master/README.md)
     + [2019nCoV-Crawler: 爬冠状病毒新型肺炎疫情实时数据+数据持久化+邮件通知](https://gitee.com/TicsmycL/nCoV_Crawler2019)
