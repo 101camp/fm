@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Python开发者日,大妈线上嗯哼"
+title: "Python开发者日,大妈线上嗯哼+官方回放"
 date: 2020-02-15 15:42:00 
 file: http://101.zoomquiet.top/fm/CSDN-pyday-panel-GTM20200215-DAMA-134749.mp3
 summary: "2020.2.15 CSDN 首次举办大规模直播, 大妈受邀在 Panel 环节的吐糟..."
@@ -39,6 +39,12 @@ CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型�
 
 - [Issues · 101camp/blueprint](https://github.com/101camp/blueprint/issues) 
 - 或是知识星球: [FAQ蟒营™](https://t.zsxq.com/iaIEQ3N)
+
+
+PS:
+
+- 200221 官方发布视频回放: [【免费】Python Day---「抗击疫情」开发者在行动-6-Panel-CSDN讲师的在线视频教程-CSDN学院](https://edu.csdn.net/course/play/27767/376008)
+
 
 
 ### Links: 
