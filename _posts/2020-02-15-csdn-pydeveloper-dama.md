@@ -4,7 +4,7 @@ title: "Python开发者日,大妈线上嗯哼+官方回放"
 date: 2020-02-15 15:42:00 
 file: http://101.zoomquiet.top/fm/CSDN-pyday-panel-GTM20200215-DAMA-134749.mp3
 summary: "2020.2.15 CSDN 首次举办大规模直播, 大妈受邀在 Panel 环节的吐糟..."
-description: "新型肺炎疫情牵动着每一个人的心，灾难当前，众互联网科技公司捐款捐物捐技术，各尽所能，并肩战“疫”。为了助力对抗疫情，减少线下人员流动和聚集，CSDN 特别举行「Python 开发者日」在线系列峰会。我们将邀请行业内的顶尖技术专家在线分享 Python 在不同类型场景下的实战应用经验，更有多种在线互动方式，足不出户便可与大咖学习交流。未来的每一天，让我们用知识迎接希望！大妈先完成自己本地录音的单口嗯哼分享大家..."
+description: "新型肺炎疫情牵动着每一个人的心,灾难当前,众互联网科技公司捐款捐物捐技术,各尽所能,并肩战"疫". 为了助力对抗疫情,减少线下人员流动和聚集,CSDN 特别举行'Python 开发者日'在线系列峰会. 我们将邀请行业内的顶尖技术专家在线分享 Python 在不同类型场景下的实战应用经验,更有多种在线互动方式,足不出户便可与大咖学习交流. 未来的每一天,让我们用知识迎接希望!大妈先完成自己本地录音的单口嗯哼分享大家..."
 duration: "41:03" 
 length: "2463"
 explicit: "no" 
@@ -16,9 +16,9 @@ voices: "Zoom.Quiet"
 ### 大妈受邀在 Panel 环节的吐糟快递
 > 因为直播系统后台录制要等几天, 大妈先自行编辑本地录音公开出来
 
-新型肺炎疫情牵动着每一个人的心，灾难当前，众互联网科技公司捐款捐物捐技术，各尽所能，并肩战“疫”。为了助力对抗疫情，减少线下人员流动和聚集，CSDN 特别举行「Python 开发者日」在线系列峰会。
+新型肺炎疫情牵动着每一个人的心,灾难当前,众互联网科技公司捐款捐物捐技术,各尽所能,并肩战"疫". 为了助力对抗疫情,减少线下人员流动和聚集,CSDN 特别举行'Python 开发者日'在线系列峰会. 
 
-CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型场景下的实战应用经验，更有多种在线互动方式，足不出户便可与大咖学习交流。未来的每一天，让我们用知识迎接希望！
+CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型场景下的实战应用经验,更有多种在线互动方式,足不出户便可与大咖学习交流. 未来的每一天,让我们用知识迎接希望!
 
 
 大妈先完成自己本地录音的单口嗯哼分享大家..涉及:
@@ -43,7 +43,7 @@ CSDN 将邀请行业内的顶尖技术专家在线分享 Python 在不同类型�
 
 PS:
 
-- 200221 官方发布视频回放: [【免费】Python Day---「抗击疫情」开发者在行动-6-Panel-CSDN讲师的在线视频教程-CSDN学院](https://edu.csdn.net/course/play/27767/376008)
+- 200221 官方发布视频回放: [[免费]Python Day---'抗击疫情'开发者在行动-6-Panel-CSDN讲师的在线视频教程-CSDN学院](https://edu.csdn.net/course/play/27767/376008)
 
 
 
@@ -56,9 +56,9 @@ PS:
 - [新冠病毒相关开源 · DCloud/xinguan2020 - Gitee](https://gitee.com/dcloud/xinguan2020/blob/master/README.md)
     + [2019nCoV-Crawler: 爬冠状病毒新型肺炎疫情实时数据+数据持久化+邮件通知](https://gitee.com/TicsmycL/nCoV_Crawler2019)
     + [nCoV2019_Predict: 抓取新冠肺炎疫情历史数据和实时数据+新冠肺炎疫情预测](https://gitee.com/fenge21/nCoV2019_Predict)
-    + [nCov-Crawler: 基于 Swoole + imi 框架的新型冠状病毒肺炎疫情实时动态爬虫抓取项目，可查看各省市趋势图：https://test.yurunsoft.com/ncov/](https://gitee.com/yurunsoft/nCov-Crawler)
-    + [feiyan: 实时更新：新型肺炎疫情最新动态](https://gitee.com/smallweigit/feiyan)
-    + [epidemic: 基于 AntV Vue 的中国新型冠状病毒疫情数据可视化移动端项目。](https://gitee.com/guangzan/epidemic)
+    + [nCov-Crawler: 基于 Swoole + imi 框架的新型冠状病毒肺炎疫情实时动态爬虫抓取项目,可查看各省市趋势图:https://test.yurunsoft.com/ncov/](https://gitee.com/yurunsoft/nCov-Crawler)
+    + [feiyan: 实时更新:新型肺炎疫情最新动态](https://gitee.com/smallweigit/feiyan)
+    + [epidemic: 基于 AntV Vue 的中国新型冠状病毒疫情数据可视化移动端项目. ](https://gitee.com/guangzan/epidemic)
 - ...
 - [Plan 9 from Bell Labs](https://9p.io/plan9/)
     + 是的, 核心成员后来没事儿去 google 开发了 golang

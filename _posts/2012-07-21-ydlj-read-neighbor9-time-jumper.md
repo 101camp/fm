@@ -26,7 +26,7 @@ voices: "Zoom.Quiet"
 
 ### Links: 
 
-- [在异托邦里建构个人另类选择的幻想空间（文章97）.pdf](http://0.zoomquiet.top/ReadNeighbor/120721-readneighbor9/%E5%9C%A8%E5%BC%82%E6%89%98%E9%82%A6%E9%87%8C%E5%BB%BA%E6%9E%84%E4%B8%AA%E4%BA%BA%E5%8F%A6%E7%B1%BB%E9%80%89%E6%8B%A9%E7%9A%84%E5%B9%BB%E6%83%B3%E7%A9%BA%E9%97%B4%EF%BC%88%E6%96%87%E7%AB%A097%EF%BC%89.pdf)
+- [在异托邦里建构个人另类选择的幻想空间(文章97).pdf](http://0.zoomquiet.top/ReadNeighbor/120721-readneighbor9/%E5%9C%A8%E5%BC%82%E6%89%98%E9%82%A6%E9%87%8C%E5%BB%BA%E6%9E%84%E4%B8%AA%E4%BA%BA%E5%8F%A6%E7%B1%BB%E9%80%89%E6%8B%A9%E7%9A%84%E5%B9%BB%E6%83%B3%E7%A9%BA%E9%97%B4%EF%BC%88%E6%96%87%E7%AB%A097%EF%BC%89.pdf)
 - [如何成为阅读邻居 \| Reader as Neighbor ;\-\)](https://ydlj.101.camp/2014-05/be-rn-guider/) 
 
 
