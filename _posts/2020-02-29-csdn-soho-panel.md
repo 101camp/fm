@@ -61,7 +61,7 @@ PS:
 大妈私人系列(用认真思考来改变心态):
 
 - [公告/ 叕重新开始的大妈](https://mp.weixin.qq.com/s/N5TuRRbF485D4Q90XdDA7g)
-    + [作者面对面 | 工作之外,社区之内的 Pythonic 精神](https://mp.weixin.qq.com/s/Rj3YRIpecMIsV9UzEY4_lw)
+    + [作者面对面 / 工作之外,社区之内的 Pythonic 精神](https://mp.weixin.qq.com/s/Rj3YRIpecMIsV9UzEY4_lw)
 - [科学'摸鱼'指北+0](https://mp.weixin.qq.com/s/Q-keoD_3L29zKNPnwLTFXw)
     + [拙见/ 科学'摸鱼'指北+1](https://mp.weixin.qq.com/s/fnu9dtLQVc_TiShluhXccw)
     + [拙见/ 科学'摸鱼'指北+2](https://mp.weixin.qq.com/s/4NZGKhdbAaanxNKZyQR-vg)
