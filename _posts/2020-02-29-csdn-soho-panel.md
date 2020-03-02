@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "中国'远程办公'大考,大妈再次主持吐糟/生肉版"
+title: "CSDN/远程办公大考/大妈主持/吐糟生肉版"
 date: 2020-02-15 15:42:00 
 file: http://org.up.zoomquiet.top/ztapes/2020zq/200301SOHO-panel2dama-upyun.mp3
 summary: "2020.2.29 CSDN 再次次举办线上峰会,直播讨论远程办公, 大妈受邀在 Panel 环节的吐糟..."
