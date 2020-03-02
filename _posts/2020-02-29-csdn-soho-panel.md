@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CSDN/远程办公大考/大妈主持/吐糟生肉版"
-date: 2020-02-15 15:42:00 
+date: 2020-02-29 15:42:00 
 file: http://org.up.zoomquiet.top/ztapes/2020zq/200301SOHO-panel2dama-upyun.mp3
 summary: "2020.2.29 CSDN 再次次举办线上峰会,直播讨论远程办公, 大妈受邀在 Panel 环节的吐糟..."
 description: "[抗击疫情,科技公司在行动]系列:中国'远程办公'大考...圆桌讨论, 由企业/社区/独立开发者, 三种经典的被远程办公角度, 来一起探讨, 远程办公最爽和最囧, 为什么? 以及自制力/自驱力等等关联话题;"
@@ -13,8 +13,8 @@ keywords: "community, CSDN, panel, SOHO, zoomquiet, 101.camp"
 voices: "ZoomQuiet, 张烁, 吕小荣"
 ---
 
-### 大妈主持 Panel 环节的群众口速递
-> 因为直播系统后台录制要等几天, 大妈先自行编辑本地录音公开出来
+### 大妈主持/Panel环节/群口速递
+> CSDB 直播系统后台录像编辑, 要等几天, 大妈先自行合成各老师本地录音发布
 
 主要内容:
 
