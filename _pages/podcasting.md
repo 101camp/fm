@@ -56,7 +56,7 @@ voices: "who did the talking"
 
 **6.** 将相关链接和说明增补到对应声明中. 
 
-**7.** 将所有 push 给 GiyHub
+**7.** 将所有 push 给 GitHub
 
 **8.** 新节目将自动化更新到网站以及 RSS 
 
