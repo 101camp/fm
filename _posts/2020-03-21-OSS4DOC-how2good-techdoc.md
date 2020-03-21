@@ -132,8 +132,10 @@ PPS:
 更多问题:
 
 
-![askdama@googlegroups.com](http://openmindclub.zoomquiet.top/res/KEEP/kcn_ask-dama.jpg?imageView2/2/h/420)
+随时邮件: `askdama@googlegroups.com`
+![askdama@googlegroups.com](http://openmindclub.zoomquiet.top/res/KEEP/kcn_ask-dama.jpg?imageView2/2/h/420) 
 
+或是: `微信+公众号: ZoomQuiet`
 ![微信+公众号: ZoomQuiet](http://ydlj.zoomquiet.top/ipic/2020-03-21-wx-zoomquiet.jpg?imageView2/2/w/420)
 
 
