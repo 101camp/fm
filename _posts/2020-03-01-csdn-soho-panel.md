@@ -52,6 +52,7 @@ PS:
 ### Links: 
 
 - [[抗击疫情,科技公司在行动]系列:中国'远程办公'大考-IT培训直播-CSDN学院](https://edu.csdn.net/huiyiCourse/detail/1159)
+    + [【抗击疫情，科技公司在行动】系列：中国「远程办公」大考-CSDN讲师的在线视频教程-CSDN学院](https://edu.csdn.net/course/detail/27971)
 - 书单:
     + 豆列:[蟒营™101.camp](https://www.douban.com/doulist/119293075/)
     + [奇特的一生 (豆瓣)](https://book.douban.com/subject/1115353/)
