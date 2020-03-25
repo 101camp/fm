@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "唐庐讲/AI/大妈吐糟版"
+title: "唐庐讲/AI/漫谈"
 date: 2019-05-26 16:42:00 
 file: http://org.up.zoomquiet.top/ztapes/2019zq/20190526-4-chaos-ai-172114.MP3
 summary: "什么是 AI ? 热点术语,但是,具体是什么? 值得当面聊清楚..."
