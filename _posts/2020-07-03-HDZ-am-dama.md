@@ -52,8 +52,13 @@ Voices:
 ### Links: 
 > 愿上苍保佑吃饱了饭的人民吧.
 
-- 永远的: [如何提问](https://gitlab.com/101camp/2py/tasks/wikis/HandBooks/Hb4Ask)
-    + [编程得在编程中学 - 简书](https://www.jianshu.com/p/7314179ac730)
+- [HDZ_Summit_2020_线上峰会-华为云](https://developer.huaweicloud.com/activity/HDZ_2020/HDZ_Summit_2020.html)
+
+-------------
+
+永远的: [如何提问](https://gitlab.com/101camp/2py/tasks/wikis/HandBooks/Hb4Ask)
+
+- [编程得在编程中学 - 简书](https://www.jianshu.com/p/7314179ac730)
 - [Pythoneer 如何科学的增殖同类?](https://blog.101.camp/nc/181012-preNC-pythoneer-growthup/)
 - [我觉得潘石屹推广编程的姿势不对](https://mp.weixin.qq.com/s/FbUYUtnSVPJseA6sBud5fQ)
     + [蟒营®/ 到底如何算"会编程"?](https://mp.weixin.qq.com/s/_yMoR4pJJGlJx51DU8xGyg)
