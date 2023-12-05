@@ -16,7 +16,9 @@ voices: "ZoomQuiet"
 ### FreeBSD 中国社区和美国社区[Tech PodFest]
 官网: [podfest.tech](https://podfest.tech/zh-CN)
 
-![FreeBSD](https://ipic.zoomquiet.top/2023-12-05-vlog-chaos42-livintalks.053.jpeg)
+![231205节目单](https://ipic.zoomquiet.top/2023-12-05-WechatIMG141.jpg)
+
+
 
 > [社会大学.技术社区篇]
 
@@ -57,7 +59,8 @@ refer.:
 在技术世界, 社区是个自然的聚集场所,
 只是中国和其它地区的技术社区发展环境截然不同...
 
-![231205节目单](https://ipic.zoomquiet.top/2023-12-05-image.png)
+![FreeBSD](https://ipic.zoomquiet.top/2023-12-05-vlog-chaos42-livintalks.053.jpeg)
+
 
 
 -------------
