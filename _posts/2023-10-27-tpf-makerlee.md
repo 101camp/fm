@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "李大维(中国Maker第一人)一起理解山寨的开源精神[Tech PodFest]"
-date: 2023-12-06 11:42:42 
+date: 2023-10-27 10:42:42 
 file: http://org.up.zoomquiet.top/101camp/fm/231027TPFestMakerLee.MP3
 summary: "从开源硬件角度理解自由软件和开源社区的关系「2023技术播客节」放送作品"
 description: "从90年代接触自由软件之后, 大维 就开始了自己独立探索开源世界的进程, 从商业角度理解了开源协作后, 不再被主流媒体左右, 和有趣的人一起创造有趣味的作品..."
@@ -16,7 +16,8 @@ voices: "ZoomQuiet"
 ### 一起理解山寨的开源精神 [Tech PodFest]
 官网: [podfest.tech](https://podfest.tech/zh-CN)
 
-![maker](https://ipic.zoomquiet.top/2023-12-05-vlog-chaos42-livintalks.033.jpeg)
+![节目单](https://ipic.zoomquiet.top/2023-12-05-231206.jpg)
+
 
 
 > [社会大学.技术社区篇]
@@ -66,6 +67,7 @@ refer.:
 - ...
 
 
+![maker](https://ipic.zoomquiet.top/2023-12-05-vlog-chaos42-livintalks.033.jpeg)
 
 
 -------------
