@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FreeBSD中国社区和美国社区[Tech PodFest]"
-date: 2023-12-05 11:42:42 
+date: 2023-12-05 10:42:42 
 file: http://org.up.zoomquiet.top/101camp/fm/231123TPFest-delphij.MP3
 summary: "和delphij 聊FreeBSD社区在中国和美国的不同「2023技术播客节」放送作品"
 description: "20多年前 delphij 开始对 FreeBSD 优雅的内核架构吸引, 从此进入了一个完全不同的空间, 又历经了中美两国不同的 IT 环境, 对在校和35+程序猿都有什么建议?..."
