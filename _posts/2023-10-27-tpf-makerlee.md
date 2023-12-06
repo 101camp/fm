@@ -9,7 +9,7 @@ duration: "1:14:15"
 length: "4455"
 explicit: "no" 
 block: "no" 
-keywords: "chaos42DAMA, speech, live, PodFest"
+keywords: "chaos42DAMA, Youtuber, live, PodFest"
 voices: "ZoomQuiet"
 ---
 

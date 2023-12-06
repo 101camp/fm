@@ -9,14 +9,13 @@ duration: "52:38"
 length: "3158"
 explicit: "no" 
 block: "no" 
-keywords: "chaos42DAMA, speech, live, PodFest"
+keywords: "chaos42DAMA, Youtuber, live, PodFest"
 voices: "ZoomQuiet"
 ---
 
 ### 我们的开源社区[Tech PodFest]
 官网: [podfest.tech](https://podfest.tech/zh-CN)
 
-![我们的开源社区](https://ipic.zoomquiet.top/2023-11-27-vlog-chaos42-livintalks.031.jpeg)
 
 
 > [社会大学.技术社区篇]
@@ -60,6 +59,8 @@ refer.:
 "我们的开源项目"
 今天继续聊, 那些开源项目背后的社区故事...
 
+![我们的开源社区](https://ipic.zoomquiet.top/2023-11-27-vlog-chaos42-livintalks.031.jpeg)
+
 
 ```
 0:00 30秒开场
@@ -90,6 +91,8 @@ refer.:
 1:00:16 HW的 mifi 硬件产品, 随身 wifi 自供
 1:01:27 我是大妈, 祝大家: 生生不息 繁荣昌盛
 ```
+
+![231207节目单](https://ipic.zoomquiet.top/2023-12-06-TPFest231207.jpg)
 
 
 后续相关讨论, 欢迎继续在:
