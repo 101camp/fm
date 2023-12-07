@@ -2,7 +2,7 @@
 layout: post
 title: "HDZ Summit 2020 圆桌之大妈"
 date: 2020-07-03 11:42:24 
-file: http://101.zoomquiet.top/res/tapes/200703-HDZ-am-DAMA.mp3
+file: http://org.up.zoomquiet.top/101camp/res/tapes/200703-HDZ-am-DAMA.mp3
 summary: "代表CPUG,对编程学习以及社区支持的各种吐糟"
 description: "HDZ Summit 2020是由华为HDZ开发者社区发起,众多技术社区参与并面向全球开发者的年度线上盛会. 圆桌会议阶段, 大妈作为中国Python社区最长情贡献者分享一系列私人观点"
 duration: "13:12" 

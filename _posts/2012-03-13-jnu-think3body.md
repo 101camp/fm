@@ -2,7 +2,7 @@
 layout: post
 title: "JNU/大妈/怼3体"
 date: 2012-03-13 19:42:00 
-file: http://0.zoomquiet.top/CPyUG/zq2voice/120313_jnu-anti3body.MP3
+file: http://org.up.zoomquiet.top/CPyUG/zq2voice/120313_jnu-anti3body.MP3
 summary: "三体真的是纪元嘛? 在 JUN 和学生们一起讨论..."
 description: "因为 PythoniCamp 的原因和 JUN 有过一系列分享活动, 所以, 老师进一步对大妈其它领域的吐糟有了兴趣, 特别组织了一次晚间交流, 被 好中文 写作班激发特此钩陈."
 duration: "73:16" 

@@ -2,7 +2,7 @@
 layout: post
 title: "蟒营®作曲班 / Zoe Jane - Starry Sky"
 date: 2019-11-11 22:42:24 
-file: http://101.zoomquiet.top/mu/Ch2StarrySky-zoejane-V1.mp3
+file: http://org.up.zoomquiet.top/101camp/mu/Ch2StarrySky-zoejane-V1.mp3
 summary: "蟒营®作曲班创始学员 Zoe 尝试全新风格"
 description: "蟒营®作曲班 YTC 工作室作品集, 收集/编辑全体学员各个阶段练习曲,自主发布, 作为版权声明以及网络展示; 这首是学习 Logix 初级阶段时 Zoe 的一次尝试, 电子转换的时机非常舒服了..."
 duration: "02:25" 

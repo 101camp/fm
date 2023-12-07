@@ -2,7 +2,7 @@
 layout: post
 title: "阅读邻居-9-穿越文学"
 date: 2012-07-21 15:42:00 
-file: http://0.zoomquiet.top/ReadNeighbor/120721-readneighbor9/183M_120721_1946.MP3
+file: http://org.up.zoomquiet.top/ReadNeighbor/120721-readneighbor9/183M_120721_1946.MP3
 summary: "2012.7.21 阅读邻居在豆个庄青青花园 读易洞 线下读书活动 私人记要"
 description: "在异托邦里建构个人另类选择的幻想空间, 穿越小说是什么? 为什么? 要什么? ...系列相关图书/小说, 引发有关科幻文学发展的思考, 来自全国各地因为一个微博号召集的线下高品质活动, 荐书环节录音, 更加精彩的是早哥的阐述, 非常单口, 想听的, 留言要求, 就发布... "
 duration: "70:31" 

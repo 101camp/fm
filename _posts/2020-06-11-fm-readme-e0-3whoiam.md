@@ -2,7 +2,7 @@
 layout: post
 title: "FM:Re adme 试播"
 date: 2020-06-11 21:00:42 
-file: http://org.up.zoomquiet.top/record/FMreadme/E0-ReadmeRadio-3whoiam.mp3
+file: http://org.up.zoomquiet.top/FMreadme/E0-ReadmeRadio-3whoiam.mp3
 summary: "什么是回甘FM? 由谁发起的? 为什么要 Podcast?"
 description: "源自 TechParty.org/ 珠三角技术沙龙, 疫情了, 线下活动没的搞, Vlog 大家又没这个颜值, 所以, 播客来的相对容易些, 又是大家共同的体验, 那就来呗."
 duration: "28:57" 

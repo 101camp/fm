@@ -2,7 +2,7 @@
 layout: post
 title: "COSCon2019上海/闪电演讲之一"
 date: 2019-11-03 18:18:42 
-file: http://101.zoomquiet.top/res/tapes/191103-COSCon-sh/191103-lightalk-leo-184849.MP3
+file: http://org.up.zoomquiet.top/101camp/res/tapes/191103-COSCon-sh/191103-lightalk-leo-184849.MP3
 summary: "什么是 Leo ? 为什么 Leo? 文学化编程?"
 description: "来自台湾 COSCUP 经典环节:闪电演讲,无幻灯,3分钟叫停,就看如何给出最简洁/鲜明的观点..."
 duration: "03:21" 

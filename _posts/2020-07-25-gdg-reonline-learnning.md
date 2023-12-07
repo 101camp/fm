@@ -2,7 +2,7 @@
 layout: post
 title: "GDG珠海/疫情之下在线学习/片段/学习吐糟"
 date: 2020-07-25 15:42:24 
-file: http://101.zoomquiet.top/fm/200725-gdg-reonline-7-comm-learnning.mp3
+file: http://org.up.zoomquiet.top/101camp/fm/200725-gdg-reonline-7-comm-learnning.mp3
 summary: "首次线上活动, 用 zoom 会议室组织自在的主题讨论, 关注基于自由/开源技术社区的在线学习是什么, 如何加入?"
 description: "从 2017 年开始,我就完全进入到了远程协作的状态,这 3 年多对远程协作感触比较深.  从做开源创业的第一天就决定了我们和用户之间,大多是通过网络方式.  开源的属性,很方便的达成内外互通,潜移默化的弥补开源产品不足和自己知识盲区.  远程协作过程中,我们也发现了一些远程问题,借这个机会和大家分享一下我们是如何解决这些问题,给大家多个参考. "
 duration: "14:46" 

@@ -2,7 +2,7 @@
 layout: post
 title: "疫情焦虑心理初解"
 date: 2020-02-08 20:42:00 
-file: http://101.zoomquiet.top/fm/debuguself147w-faq-psychiatric-GMT20200208-Zoom_Quiet.mp3
+file: http://org.up.zoomquiet.top/101camp/fm/debuguself147w-faq-psychiatric-GMT20200208-Zoom_Quiet.mp3
 summary: "200228 - 自怼圈147w 有关大灾之下心理状态调节"
 description: "新冠肺炎(COVID-19)突然暴发, 很多人虽然不在疫区, 但是, 每天在网络各种消息轰炸中, 又无处可逃, 进一步感觉自己还好, 对灾区亲友有种负罪感, 等等焦虑/恐惧/烦燥/...纠缠成一块无法自我消解, 怎么办? 自怼圈请来专家给大家扫盲..."
 duration: "40:56" 

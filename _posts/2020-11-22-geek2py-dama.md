@@ -2,7 +2,7 @@
 layout: post
 title: "geek时间/Py进阶训练营/带货吐糟篇"
 date: 2020-11-22 20:42:24 
-file: http://101.zoomquiet.top/fm/201122geek2py-dama.MP3
+file: http://org.up.zoomquiet.top/101camp/fm/201122geek2py-dama.MP3
 summary: "受邀给金山居大师作宣传, DAMA-style 单口一小时, 成果另外说"
 description: "geekbang 是 InfoQ 中国再创业的著名技术社区, 发布了一系列著名课程, 有关Python 的不少, 这次找到大妈来帮忙带货, 现场体验了一把 geek 薇娅 的风采, 顿时感觉自己还要继续修炼...."
 duration: "52:39" 
