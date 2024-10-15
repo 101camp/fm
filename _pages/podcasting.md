@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Podcasting With Jekyll"
+title: "Podcasting With Jekyll & follow.is"
 permalink: /podcast
 ---
 
@@ -81,5 +81,24 @@ voices: "who did the talking"
 - 频道 -> 101camp.slack.com #general 
 
 Cheers!
+
+
+## upgrade
+> 241015 尝试进入 follow.is
+
+这是一个全新的 RSS 使用平台/工具, 也是一个全新的 web3 赛道,
+先看看如何可以帮助进行高效的内容分发吧;
+
+加入也很简单:
+
+- 将 RSS 订阅
+- 然后, 选择认证
+    + 也就是在 `_config.yml` 追加官方要求的内容:
+    + `feedId:58858970875044864+userId:68573755406424064`
+
+
+
+
+
 
 
